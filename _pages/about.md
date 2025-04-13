@@ -14,3 +14,14 @@ My research interests include dynamic treatment regimes, complex clinical trials
 
 You can find my CV here: [Curriculum Vitae](../assets/CV_Zi_Wang.pdf).
 
+Honors and Awards
+======
+Dr. Henry Block Award for Outstanding Senior PhD Student, 2025
+Student Poster Recognition Award for 2024 ASA Biopharmaceutical Workshop, 2024
+ICSA Student Poster Award, 2024
+Graduate and Professional Student Government (GPSG) Travel Grant, 2024
+Dietrich School of Arts and Sciences Summer Research Fellowship, 2021, 2025
+Outstanding First Year Applied Masters Student Award, 2019
+Excellent Graduate Student, 2018
+
+
