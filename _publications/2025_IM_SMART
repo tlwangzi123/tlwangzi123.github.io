@@ -6,8 +6,8 @@ permalink: /publication/2025_IM_SMART
 excerpt: 'We proposed interim analysis procedures for complex SMART trials to reduce sample sizes
 while controlling type I error and maintaining statistical power.'
 date: 2015-04-02
-venue: 'arXiv preprint arXiv:2504.03143.'
-paperurl: 'http://tlwangzi123.github.io/files/IM-SMART_arXiv_2025.pdf'
+venue: 'arXiv'
+arxivurl: 'http://tlwangzi123.github.io/files/IM-SMART_arXiv_2025.pdf'
 citation: 'Wang, Z., Cheng, Y., Wahed, A.S. (2025+) “ Interim Analysis in Sequential Multiple
 Assignment Randomized Trials for Survival Outcomes”, arXiv preprint arXiv:2504.03143.'
 ---
