@@ -11,6 +11,47 @@ author_profile: true
 
 {% endif %}
 
+{% comment %}
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+{% endcomment %}
+
+<h2>Oral-Contributed Presentations</h2>
+<ul>
+  {% assign oral_talks = site.talks | where: "talk_type", "oral" %}
+  {% for post in oral_talks reversed %}
+    <li>
+      <strong>{{ post.title }}</strong><br>
+      {% if post.venues %}
+        <ul>
+          {% for v in post.venues %}
+            <li>{{ v.venue }}, {{ v.date | date: "%B %Y" }}</li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        {{ post.venue }}, {{ post.date | date: "%B %Y" }}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Poster Presentations</h2>
+<ul>
+  {% assign poster_talks = site.talks | where: "talk_type", "poster" %}
+  {% for post in poster_talks reversed %}
+    <li>
+      <strong>{{ post.title }}</strong><br>
+      {% if post.venues %}
+        <ul>
+          {% for v in post.venues %}
+            <li>{{ v.venue }}, {{ v.date | date: "%B %Y" }}</li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        {{ post.venue }}, {{ post.date | date: "%B %Y" }}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
