@@ -22,7 +22,7 @@ repository               : "tlwangzi123/tlwangzi123.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo-Zi Wang.png"
+  avatar           : "Photo_Zi_Wang.png"
   name             : "Zi Wang"
   pronouns         : # example: "she/her"  
   bio              : "Statistics PhD Student at University of Pittsburgh"
