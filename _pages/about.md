@@ -15,7 +15,7 @@ I obtained my Master's degree from the [Department of Statistics at University o
 
 My research interests include dynamic treatment regimes, complex clinical trials, causal inference, and survival analysis.
 
-You can find my CV here: [Curriculum Vitae](../assets/CV_Zi_Wang.pdf).
+You can find my CV here: [Curriculum Vitae](http://www.ziwangstat.com/assets/CV_Zi_Wang.pdf).
 
 Honors and Awards
 ======
