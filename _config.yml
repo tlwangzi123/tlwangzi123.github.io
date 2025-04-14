@@ -13,7 +13,7 @@ title                    : "Zi Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zi Wang"
 description              : &description "Statistics PhD Student at University of Pittsburgh"
-url                      : https://tlwangzi123.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://www.ziwangstat.com # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tlwangzi123/tlwangzi123.github.io"
 
