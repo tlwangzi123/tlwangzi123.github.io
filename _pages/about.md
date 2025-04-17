@@ -21,7 +21,7 @@ Honors and Awards
 ======
 1. Dr. Henry Block Award for Outstanding Senior PhD Student, 2025
 1. Student Poster Recognition Award for 2024 ASA Biopharmaceutical Workshop, 2024
-1. ICSA Student Poster Award, 2024
+1. International Chinese Statistical Association (ICSA) Student Poster Award, 2024
 1. Graduate and Professional Student Government (GPSG) Travel Grant, 2024
 1. Dietrich School of Arts and Sciences Summer Research Fellowship, 2021, 2025
 1. Outstanding First Year Applied Masters Student Award, 2019
